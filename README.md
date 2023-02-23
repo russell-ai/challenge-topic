@@ -4,7 +4,10 @@
 
 You can find company names below link:  
 
-https://www.nasdaq.com/market-activity/stocks/screener 
+https://www.nasdaq.com/market-activity/stocks/screener  
+
+https://en.wikipedia.org/wiki/List_of_S%26P_500_companies  
+
 
 
  
